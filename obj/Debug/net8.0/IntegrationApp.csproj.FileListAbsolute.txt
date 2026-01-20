@@ -1,0 +1,14 @@
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\bin\Debug\net8.0\IntegrationApp.exe
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\bin\Debug\net8.0\IntegrationApp.deps.json
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\bin\Debug\net8.0\IntegrationApp.runtimeconfig.json
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\bin\Debug\net8.0\IntegrationApp.dll
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\bin\Debug\net8.0\IntegrationApp.pdb
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\obj\Debug\net8.0\IntegrationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\obj\Debug\net8.0\IntegrationApp.AssemblyInfoInputs.cache
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\obj\Debug\net8.0\IntegrationApp.AssemblyInfo.cs
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\obj\Debug\net8.0\IntegrationApp.csproj.CoreCompileInputs.cache
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\obj\Debug\net8.0\IntegrationApp.dll
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\obj\Debug\net8.0\refint\IntegrationApp.dll
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\obj\Debug\net8.0\IntegrationApp.pdb
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\obj\Debug\net8.0\IntegrationApp.genruntimeconfig.cache
+C:\Users\pshenichnikov\Desktop\to\IntegrationApp\obj\Debug\net8.0\ref\IntegrationApp.dll
